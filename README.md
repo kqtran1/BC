@@ -42,3 +42,7 @@
 * Snug Cove (ferry place)
 * Killarney Lake (so so) https://www.vancouvertrails.com/trails/killarney-lake/
 * Cocoa West Chocolate
+
+# Garibaldi Lake
+
+# Joffre Lake
