@@ -14,6 +14,14 @@
 * Zipline-ing
 * Golfing
 
+# Vancouver Island
+
+## Victoria
+* X-Men castle
+* Blackwater
+
+## Nanaimo
+
 # Sunshine Coast
 
 ## Gibsons
